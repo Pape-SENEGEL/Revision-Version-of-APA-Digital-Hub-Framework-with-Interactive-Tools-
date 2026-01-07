@@ -1,0 +1,684 @@
+{
+  "appName": "APA | Hub Digital",
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de Bord",
+    "tours": "Voyages",
+    "resources": "Ressources",
+    "solutions": "Solutions",
+    "profile": "Mon Profil",
+    "aiAssistant": "Concierge IA",
+    "framework": "Cadre APA",
+    "frameworkGuide": "Guide Interactif",
+    "frameworkToolkit": "Boîte à Outils d'Implémentation",
+    "frameworkGlossary": "Glossaire du Cadre",
+    "frameworkInteractiveTools": "Outils et Modèles Interactifs",
+    "generateImage": "Studio d'Image",
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se Déconnecter",
+    "myApplications": "Mes Candidatures",
+    "myBookmarks": "Mes Favoris"
+  },
+  "buttons": {
+    "cancel": "Annuler"
+  },
+  "footer": {
+    "copyright": "Tous droits réservés."
+  },
+  "homePage": {
+    "title": "La Passerelle d'Excellence vers l'Avenir de l'Afrique",
+    "subtitle": "Luxe, Impact et Innovation.",
+    "description": "Découvrez des voyages sur mesure, accédez à des ressources exclusives et rejoignez une communauté dédiée à la prospérité éthique et durable de l'Afrique.",
+    "ctaTours": "Découvrir Nos Voyages",
+    "ctaResources": "Explorer le Centre de Ressources",
+    "whyApa": {
+      "title": "Pourquoi le Hub Digital APA ?",
+      "subtitle": "Nous offrons une plateforme unique et transparente pour les leaders, investisseurs et visionnaires afin de s'engager avec l'avenir dynamique de l'Afrique.",
+      "cards": {
+        "platform": {
+          "title": "Plateforme Unifiée",
+          "description": "Accédez en toute simplicité aux voyages, ressources et fonctionnalités communautaires dans un seul espace élégant."
+        },
+        "experience": {
+          "title": "Expérience Personnalisée",
+          "description": "Contenu et tableaux de bord adaptés à votre parcours spécifique et à votre engagement avec l'APA."
+        },
+        "access": {
+          "title": "Accès Bilingue",
+          "description": "Disponibilité complète du contenu et support en anglais et en français pour une portée plus large et inclusive."
+        },
+        "concierge": {
+          "title": "Concierge IA",
+          "description": "Utilisez notre assistant intelligent pour une planification de voyage sur mesure et des informations à travers l'Afrique."
+        }
+      }
+    },
+    "resilience": {
+      "title": "Transformer le Risque en Résilience.",
+      "subtitle": "Le Cadre APA n'est pas seulement une meilleure façon de faire le bien, c'est une meilleure façon de faire des affaires.",
+      "cards": {
+        "insight": {
+          "title": "Vision contextuelle approfondie",
+          "description": "Dépassez les données de surface. Notre cadre vous aide à comprendre les dynamiques de pouvoir locales, le contexte historique et les priorités communautaires pour éviter les faux pas coûteux et obtenir un véritable permis social d'opérer."
+        },
+        "solutions": {
+          "title": "Solutions Co-créées",
+          "description": "Passez d'une mise en œuvre descendante à une conception collaborative. En co-créant des solutions avec les communautés, vous favorisez l'appropriation locale, assurez la pertinence sur le marché et la durabilité à long terme."
+        },
+        "partnerships": {
+          "title": "Partenariats Authentiques",
+          "description": "Établissez des relations basées sur la confiance qui deviennent votre plus grand atout. Les partenariats authentiques libèrent l'innovation, renforcent la fidélité à la marque et créent un environnement opérationnel stable sur des marchés complexes."
+        }
+      }
+    },
+    "strategicIdentity": {
+      "title": "Mission, Vision et Proposition de Valeur de l'APA",
+      "description": "Une identité stratégique claire et convaincante est la pierre angulaire de toute organisation prospère. Pour l'APA, cette identité doit articuler non seulement ce qu'elle fait, mais aussi pourquoi cela est important dans le contexte du développement de l'Afrique.",
+      "mission": {
+        "title": "Mission",
+        "summary": "Réaliser des projets percutants axés sur l'autonomisation des femmes et l'éthique des affaires.",
+        "text": "Bâtir la confiance et générer un impact mesurable dans le développement africain en mettant en œuvre des projets qui autonomisent les femmes, promeuvent l'éthique des affaires et décolonisent les modèles d'aide traditionnels."
+      },
+      "vision": {
+        "title": "Vision",
+        "summary": "Une Afrique où le développement est équitable, durable et mené localement.",
+        "text": "Une Afrique où le développement est porté par des partenariats équitables, où les femmes sont à l'avant-garde de l'autonomisation économique, et où l'éthique des affaires est la norme pour une croissance durable."
+      },
+      "valueProposition": {
+        "title": "Proposition de Valeur",
+        "summary": "Une agence d'exécution de confiance qui livre les projets dans les délais et le budget impartis.",
+        "intro": "En tant qu'agence d'exécution spécialisée, Accountable Partners for Africa (APA) renforce la confiance et garantit l'impact en réalisant des projets de développement complexes dans les délais et le budget impartis. Notre approche d'investissement systémique nous permet de comprendre les systèmes sous-jacents, d'identifier les points de levier clés et de mobiliser diverses parties prenantes pour atteindre des résultats collectifs et durables.",
+        "points": {
+          "businesses": {
+            "title": "Pour les Entreprises",
+            "text": "Nous fournissons un cadre clair pour des pratiques commerciales éthiques qui réduisent les risques d'investissement et ouvrent de nouvelles opportunités de marché."
+          },
+          "funders": {
+            "title": "Pour les Investisseurs & Bailleurs de Fonds",
+            "text": "Nous sommes un partenaire d'exécution de confiance qui génère un impact mesurable, dans les délais et le budget impartis, en mettant l'accent sur l'autonomisation des femmes et le changement systémique."
+          },
+          "governments": {
+            "title": "Pour les Gouvernements & ONG",
+            "text": "Nous proposons un modèle de partenariat qui décolonise le développement, assurant l'appropriation locale et renforçant les capacités pour une croissance durable et autonome."
+          },
+          "communities": {
+            "title": "Pour les Communautés",
+            "text": "Nous co-concevrons et mettons en œuvre des projets qui donnent aux communautés, en particulier aux femmes, les moyens de devenir des acteurs clés de leur propre développement économique et social."
+          }
+        }
+      }
+    },
+    "trustedBy": {
+      "title": "Reconnu par des leaders à travers l'Afrique",
+      "description": "Nous sommes fiers de collaborer avec un réseau diversifié de partenaires qui partagent notre engagement pour la prospérité durable et équitable de l'Afrique."
+    }
+  },
+  "dashboardPage": {
+    "title": "Mon Tableau de Bord",
+    "welcome": "Bienvenue, {userName} ! ({userType})",
+    "admin": {
+      "quickActions": "Actions Rapides (Admin)"
+    },
+    "guest": {
+      "title": "Bienvenue sur le Hub Digital APA",
+      "description": "Connectez-vous ou créez un compte pour accéder à votre tableau de bord personnalisé et à des fonctionnalités exclusives.",
+      "signIn": "Se Connecter",
+      "signUp": "Créer un Compte"
+    },
+    "member": {
+      "recommendedJourney": "Voyage Recommandé pour Vous",
+      "recommendedResource": "Ressource Recommandée pour Vous"
+    },
+    "stats": {
+      "applicationsSubmitted": "Candidatures Soumises",
+      "bookmarksSaved": "Favoris Enregistrés",
+      "totalUsers": "Utilisateurs Totaux",
+      "activeTours": "Voyages Actifs",
+      "newApplications": "Nouvelles Candidatures (Semaine)",
+      "totalResources": "Ressources Totales",
+      "userGrowth": "Croissance Utilisateurs (30j)",
+      "engagementRate": "Taux d'Engagement",
+      "pendingApplications": "Candidatures en Attente",
+      "upcomingDeadlines": "Échéances Proches",
+      "newPartners": "Nouveaux Partenaires (Trim.)",
+      "pipelineValue": "Valeur du Pipeline",
+      "activeEngagements": "Engagements Actifs"
+    },
+    "charts": {
+      "applicationsByStatus": "Candidatures par Statut"
+    },
+    "tables": {
+      "recentApplications": {
+        "title": "Candidatures Récentes"
+      }
+    },
+    "apaerDashboards": {
+      "projectManager": {
+        "actionCreate": "Créer un Nouveau Voyage"
+      },
+      "dataAnalyst": {
+        "actionExport": "Exporter le Rapport Complet"
+      },
+      "businessDevelopmentManager": {
+        "actionAdd": "Ajouter un Partenaire"
+      }
+    }
+  },
+  "toursPage": {
+    "title": "Voyages d'Exception en Afrique",
+    "description": "Embarquez pour un voyage transformateur. Nos circuits sont méticuleusement conçus pour offrir des perspectives inégalées sur le commerce éthique, l'innovation sociale et le développement durable à travers l'Afrique.",
+    "noTours": "Aucun voyage disponible pour le moment. Veuillez revenir plus tard.",
+    "noToursFound": "Aucun voyage ne correspond à vos critères. Veuillez essayer un autre filtre.",
+    "filterByDifficulty": "Filtrer par Difficulté",
+    "allDifficulties": "Toutes les difficultés",
+    "aiAgent": {
+      "title": "Conseiller de Voyage",
+      "initialMessage": "Bonjour ! Je peux vous aider à trouver le voyage APA idéal. Pour commencer, parlez-moi de vos intérêts. Êtes-vous plutôt intéressé(e) par la technologie, l'agriculture, le leadership, ou autre chose ?"
+    },
+    "searchPlaceholder": "Rechercher par mot-clé...",
+    "filterByDestination": "Destination",
+    "filterByIndustry": "Secteur d'Activité",
+    "sortBy": "Trier par",
+    "allDestinations": "Toutes les destinations",
+    "allIndustries": "Tous les secteurs",
+    "sortOptions": {
+      "default": "Par défaut",
+      "priceAsc": "Prix : Croissant",
+      "priceDesc": "Prix : Décroissant",
+      "durationAsc": "Durée : Courte à longue",
+      "durationDesc": "Durée : Longue à courte"
+    }
+  },
+  "aiAssistantPage": {
+    "title": "Votre Concierge IA pour l'Afrique",
+    "description": "Votre assistant personnel IA pour une planification de voyage sur mesure en Afrique. Obtenez des conseils d'experts sur les destinations, la culture, la logistique et la sécurité.",
+    "inputPlaceholder": "Demandez des conseils de voyage, l'étiquette culturelle...",
+    "sendMessage": "Envoyer",
+    "loading": "Réflexion...",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "apiKeyMissing": "La clé API Gemini n'est pas configurée. Cette fonctionnalité n'est pas disponible.",
+    "searchDisclaimer": "Les informations peuvent être complétées par Google Search. Sources citées :",
+    "noSources": "Aucune source externe citée pour cette réponse.",
+    "searchingFlights": "Recherche de vols disponibles...",
+    "suggestionBookFlight": "Réserver un vol",
+    "attachFile": "Joindre un fichier",
+    "removeFile": "Retirer le fichier",
+    "uploadError": "Erreur lors de la lecture du fichier. Veuillez en essayer un autre.",
+    "fileAttached": "Fichier joint :",
+    "systemInstructionWithFile": "Vous êtes un assistant de voyage amical et compétent, spécialisé dans l'Afrique. Fournissez des conseils, des suggestions et des informations utiles aux voyageurs. Vous pouvez également agir en tant qu'agent de réservation de vols. Lorsqu'un utilisateur souhaite réserver un vol, demandez sa destination, sa date de départ, sa date de retour et le nombre de passagers. Une fois que vous disposez de toutes ces informations, vous devez appeler l'outil `bookFlight`. N'inventez pas d'informations de vol. Vous pouvez également analyser les documents téléchargés par l'utilisateur, comme des itinéraires ou des exigences de visa, pour fournir des conseils personnalisés."
+  },
+  "toolkitPage": {
+    "title": "Boîte à Outils d'Implémentation APA",
+    "description": "Votre hub central pour les ressources pratiques afin d'adopter et d'opérationnaliser le Cadre APA au sein de votre organisation.",
+    "glossary": {
+      "title": "Glossaire du Cadre",
+      "description": "Explorez les définitions de tous les termes, concepts et outils clés du Cadre APA."
+    },
+    "guide": {
+      "title": "Guide Interactif",
+      "description": "Utilisez notre guide interactif pour commencer à construire la stratégie APA unique de votre organisation."
+    },
+    "templates": {
+      "title": "Modèles et Feuilles de Travail",
+      "description": "Téléchargez des modèles pratiques pour la cartographie des parties prenantes, les actifs de confiance, et plus encore. (Bientôt disponible)"
+    },
+    "interactiveTools": {
+      "title": "Outils et Modèles Interactifs",
+      "description": "Interagissez directement avec le Cadre APA via nos formulaires intelligents et générateurs de rapports stratégiques par IA."
+    }
+  },
+  "glossaryPage": {
+    "title": "Glossaire du Cadre",
+    "description": "Un glossaire interactif de tous les termes, concepts et outils fondamentaux du Cadre APA. Utilisez la recherche pour trouver exactement ce dont vous avez besoin.",
+    "searchPlaceholder": "Rechercher des termes et définitions...",
+    "noResults": "Aucun terme correspondant trouvé. Essayez une autre recherche.",
+    "categories": {
+      "corePrinciples": { "title": "Principes Fondamentaux" },
+      "keyConcepts": { "title": "Concepts Clés" },
+      "roadmapStages": { "title": "Étapes de la Feuille de Route" },
+      "diagnosticTools": { "title": "Outils de Diagnostic" },
+      "accountabilityMechanisms": { "title": "Mécanismes de Responsabilité" },
+      "funderSolutions": { "title": "Solutions pour Bailleurs de Fonds & Donateurs" },
+      "governmentSolutions": { "title": "Solutions pour les Gouvernements" },
+      "commonChallenges": { "title": "Défis Courants" },
+      "comparativeModels": { "title": "Modèles Comparatifs" },
+      "outcomesBenefits": { "title": "Résultats & Avantages" }
+    },
+    "terms": {
+      "apaFramework": { "term": "Cadre APA", "definition": "Une philosophie et un modèle opérationnel holistiques et intégrés pour construire des partenariats authentiques et basés sur la confiance en Afrique, centrés sur les quatre piliers de la DEI, l'Entreprise comme Moteur, la Confiance et la Responsabilité." },
+      "deiLitmusTest": { "term": "La DEI comme Test Décisif", "definition": "Le principe fondamental selon lequel l'authenticité d'un partenariat se mesure à la profondeur avec laquelle les voix diverses sont incluses et véritablement responsabilisées dans les processus de prise de décision." },
+      "businessAsEngine": { "term": "L'Entreprise comme Moteur", "definition": "Le principe selon lequel les pratiques commerciales fondamentales, et non la philanthropie périphérique ou la RSE, sont les moteurs les plus puissants et durables d'un impact social positif et d'une valeur partagée." },
+      "buildingTrust": { "term": "Bâtir la Confiance", "definition": "Le principe fondamental selon lequel l'investissement patient et à long terme dans les relations est la condition préalable essentielle à la création de partenariats résilients et réussis." },
+      "accountabilityArchitecture": { "term": "Architecture de la Responsabilité", "definition": "L'ensemble de mécanismes formels et co-créés (tels que les MRG, le S&E participatif et les organes de gouvernance conjoints) qui garantissent une responsabilité mutuelle entre tous les partenaires." },
+      "authenticityPremium": { "term": "La Prime d'Authenticité", "definition": "L'avantage commercial mesurable (incluant une réduction des risques, une plus grande fidélité à la marque, un meilleur accès au capital et une innovation accrue) obtenu grâce à des relations authentiques et basées sur la confiance avec les parties prenantes." },
+      "sharedValue": { "term": "Valeur Partagée", "definition": "Le concept selon lequel le succès de l'entreprise et le bien-être social sont interdépendants. Une entreprise crée de la valeur partagée en identifiant et en abordant les problèmes sociaux qui recoupent son activité." },
+      "socialLicense": { "term": "Permis Social d'Exploiter (PSE)", "definition": "L'acceptation ou l'approbation continue des opérations d'une entreprise par sa communauté locale et les autres parties prenantes. Un partenariat authentique est le moyen le plus efficace de garantir un PSE stable." },
+      "businessIntegration": { "term": "Intégration Commerciale", "definition": "Le degré auquel l'impact social et le partenariat communautaire sont intégrés dans la stratégie commerciale, les opérations et le compte de résultat de base, plutôt que d'être cloisonnés dans un département distinct." },
+      "communityPower": { "term": "Pouvoir Communautaire", "definition": "La mesure dans laquelle les membres de la communauté ne sont pas seulement consultés, mais sont des co-créateurs, co-propriétaires et décideurs actifs dans une initiative, avec un pouvoir partagé dans la gouvernance." },
+      "riskToResilience": { "term": "Du Risque à la Résilience", "definition": "Le concept APA selon lequel aborder de manière proactive les risques sociaux et liés à la confiance par un partenariat authentique est la stratégie à long terme la plus efficace pour renforcer la résilience de l'entreprise." },
+      "diagnosticPhase": { "term": "Phase de Diagnostic", "definition": "La première étape de la Feuille de Route APA, impliquant un audit de confiance, une cartographie approfondie des parties prenantes et une évaluation des barrières internes au partenariat." },
+      "pilotSelection": { "term": "Sélection du Pilote", "definition": "La deuxième étape de la Feuille de Route APA : choisir un domaine visible et à fort impact pour tester le modèle APA et susciter l'adhésion interne." },
+      "coCreationDesign": { "term": "Co-création & Conception", "definition": "La troisième et plus critique étape de la Feuille de Route APA : un processus de conception conjoint de 6 à 12 mois axé sur l'établissement de relations avant de définir les résultats." },
+      "implementationME": { "term": "Mise en Œuvre & S&E", "definition": "La quatrième étape de la Feuille de Route APA, axée sur le lancement du pilote avec une gestion adaptative et des systèmes de Suivi & Évaluation co-conçus." },
+      "scaleIntegrate": { "term": "Mise à l'Échelle & Intégration", "definition": "La dernière étape de la Feuille de Route APA : intégrer les enseignements du pilote dans la stratégie d'entreprise, les politiques d'approvisionnement et les structures d'incitation internes." },
+      "trustAudit": { "term": "Audit de Confiance", "definition": "Un outil de diagnostic utilisé dans la phase initiale pour évaluer le niveau actuel de confiance (ou de méfiance) entre une entreprise et ses parties prenantes, en identifiant les griefs historiques et les perceptions." },
+      "stakeholderMapping": { "term": "Cartographie des Parties Prenantes", "definition": "Un processus de diagnostic qui va au-delà de l'identification des leaders évidents pour trouver et comprendre les perspectives des voix marginalisées, moins visibles ou opposées au sein d'une communauté." },
+      "pea": { "term": "Analyse de l'Économie Politique (AEP)", "definition": "Une méthode de diagnostic pour comprendre l'interaction des processus politiques et économiques dans une société : qui sont les acteurs clés, quels sont leurs intérêts et comment le pouvoir est distribué." },
+      "stakeholderScore": { "term": "Score d'Engagement des Parties Prenantes", "definition": "Une métrique pour quantifier la qualité et la profondeur des relations avec les parties prenantes, allant au-delà du simple comptage des réunions pour évaluer le niveau de confiance et d'influence mutuelle." },
+      "mutualAccountability": { "term": "Responsabilité (Mutuelle)", "definition": "Un système où la responsabilité circule dans toutes les directions. L'entreprise est responsable envers la communauté de ses engagements, et la communauté est responsable envers l'entreprise de son rôle dans le partenariat." },
+      "grm": { "term": "Mécanisme de Réparation des Griefs (MRG)", "definition": "Un système formel et co-conçu qui permet aux membres de la communauté de déposer des plaintes et de chercher une résolution de manière sûre, accessible et fiable. C'est une pierre angulaire de l'Architecture de la Responsabilité." },
+      "participatoryME": { "term": "Suivi & Évaluation (S&E) Participatif", "definition": "Une approche du S&E où les membres de la communauté sont activement impliqués dans la définition des indicateurs de succès, la collecte de données et l'analyse des résultats, garantissant que l'évaluation reflète les priorités locales." },
+      "independentVerification": { "term": "Vérification Indépendante", "definition": "L'utilisation d'organisations tierces crédibles pour vérifier les affirmations d'une entreprise sur sa performance sociale et son adhésion aux principes de l'APA, renforçant ainsi la confiance avec les parties prenantes externes." },
+      "coCreatedPlans": { "term": "Plans de Développement Local Co-créés", "definition": "Un résultat clé du processus de co-création, où les priorités de développement et les mécanismes de partage des bénéfices sont conçus conjointement par l'entreprise et la communauté, plutôt qu'imposés de manière descendante." },
+      "shiftFundingModels": { "term": "Changer les Modèles de Financement (pour les Bailleurs)", "definition": "Une perspective actionnable pour les fondations afin de passer de subventions à court terme basées sur des projets à un financement de base flexible et à long terme qui soutient le processus de renforcement de la confiance." },
+      "fundTheArchitecture": { "term": "Financer l'Architecture (pour les Bailleurs)", "definition": "Une perspective actionnable pour les bailleurs de fonds afin de fournir un financement dédié à l' 'architecture de la responsabilité' indépendante, comme des programmes de parajuristes communautaires ou des MRG régionaux et impartiaux." },
+      "conveneCatalyze": { "term": "Rassembler et Catalyser", "definition": "Le rôle que les fondations peuvent jouer en tant que tiers neutres pour organiser des dialogues entre les communautés, les entreprises et les gouvernements afin de réduire les risques des premières étapes du partenariat." },
+      "coreFunding": { "term": "Financement de Base", "definition": "Un financement flexible et à long terme qui soutient les coûts opérationnels essentiels d'une organisation, plutôt que d'être limité à un projet spécifique. Ce modèle permet l'adaptabilité et le renforcement de la confiance." },
+      "patientCapital": { "term": "Capital Patient", "definition": "Un investissement à long terme qui est prêt à accepter des rendements inférieurs au marché pendant une période afin d'obtenir un impact social plus important." },
+      "policyIntegration": { "term": "Intégration des Politiques (pour les Gouvernements)", "definition": "Une perspective actionnable pour les gouvernements d'intégrer les principes de l'APA (comme la co-création et les MRG) comme exigences dans les réglementations pour les investissements directs étrangers." },
+      "incentivizeAuthenticity": { "term": "Inciter à l'Authenticité", "definition": "Une perspective actionnable pour les gouvernements de créer des incitations fiscales ou des permis simplifiés pour les entreprises qui peuvent démontrer des pratiques vérifiées conformes à l'APA." },
+      "partnershipCapacityBuilding": { "term": "Renforcement des Capacités de Partenariat", "definition": "Financement et soutien pour que les communautés locales s'engagent avec des partenaires du secteur privé peignent un pied d'égalité, y compris la formation en négociation, littératie financière et droit des contrats." },
+      "investmentReadiness": { "term": "Paradigme de la 'Préparation à l'Investissement'", "definition": "La vision dominante mais erronée selon laquelle les communautés doivent être 'préparées' pour l'investissement, un paradigme que le Cadre APA cherche à remplacer par la 'Préparation au Partenariat' pour les investisseurs." },
+      "trustDeficits": { "term": "Déficits de Confiance", "definition": "Le scepticisme et la méfiance profondément enracinés que les communautés éprouvent souvent envers les acteurs externes en raison de générations de promesses non tenues et de projets extractifs." },
+      "corporateInertia": { "term": "Inertie d'Entreprise", "definition": "La résistance au sein des grandes organisations à adopter de nouveaux processus apparemment plus lents comme le Cadre APA, en raison d'une culture qui privilégie la rapidité et le contrôle descendant." },
+      "traditionalCSR": { "term": "RSE Traditionnelle", "definition": "Une approche où l'impact social est traité comme une fonction distincte, souvent philanthropique, déconnectée de la stratégie commerciale de base, avec une faible valeur stratégique et une faible autonomisation de la communauté." },
+      "standardESG": { "term": "ESG Standard", "definition": "Une approche où les métriques sociales sont suivies principalement pour la conformité et l'atténuation des risques, avec une consultation des parties prenantes mais un partage limité du pouvoir de décision." },
+      "apaFrameworkModel": { "term": "Cadre APA (en tant que modèle)", "definition": "Une approche où la création de valeur partagée est au cœur de la stratégie d'entreprise. Les membres de la communauté sont des co-créateurs avec une gouvernance partagée, et la responsabilité mutuelle est intégrée au modèle par un S&E co-conçu et des mécanismes formels." },
+      "reducedRisk": { "term": "Risque Opérationnel Réduit (Prime)", "definition": "Une composante clé de la Prime d'Authenticité, où les partenariats authentiques créent un permis social d'exploitation stable, réduisant les perturbations dues aux protestations et diminuant les risques réglementaires." },
+      "brandLoyalty": { "term": "Fidélité à la Marque Renforcée (Prime)", "definition": "Une composante clé de la Prime d'Authenticité, où la démonstration d'un engagement éthique authentique conduit à une plus grande rétention des clients et à une main-d'œuvre plus engagée." },
+      "partnershipLongevity": { "term": "Longévité du Partenariat", "definition": "Le résultat de la construction de la confiance et de la responsabilité mutuelle, aboutissant à des partenariats résilients et capables de surmonter les défis à long terme." }
+    }
+  },
+  "interactiveToolsPage": {
+    "title": "Outils et Modèles Interactifs",
+    "description": "Interagissez directement avec le Cadre APA via nos formulaires intelligents. Sélectionnez une ressource pour générer un rapport stratégique professionnel par IA adapté à votre organisation.",
+    "selectTool": "Sélectionnez une Ressource :",
+    "generateReport": "Générer le Rapport Stratégique IA",
+    "incubatorBlueprint": {
+      "title": "Plan d'Incubateur à Valeur Partagée",
+      "description": "Un outil complet pour structurer votre programme d'incubation, de l'immersion à la mise à l'échelle."
+    },
+    "policyAdvisory": {
+      "title": "Guide de Conseil en Politiques Publiques",
+      "description": "Concevez des cadres de politiques qui intègrent les principes de l'APA pour attirer des investissements durables."
+    },
+    "designSprint": {
+      "title": "Modèle de Sprint de Conception Contextuel",
+      "description": "Planifiez un sprint intensif de 5 jours pour valider rapidement des modèles économiques sur les marchés africains."
+    },
+    "maeToolkit": {
+      "title": "Boîte à Outils d'Évaluation 'Made in Africa'",
+      "description": "Opérationnalisez le S&E sur la base de principes décoloniaux et de philosophies africaines indigènes."
+    },
+    "leadershipProgram": {
+      "title": "Planificateur de Développement du Leadership",
+      "description": "Un modèle pour bâtir des programmes culturellement pertinents formant d'authentiques leaders africains."
+    },
+    "aiGovernance": {
+      "title": "Cadre de Gouvernance de l'IA et Souveraineté des Données",
+      "description": "Un ensemble d'outils complet pour auditer les systèmes d'IA, détecter les biais et garantir l'alignement avec les normes de souveraineté des données en Afrique.",
+      "pillar1": {
+        "title": "Pilier 1 : Communauté & Bénéfice Collectif",
+        "communityImpact": "Évaluation d'Impact Communautaire : Comment la communauté a-t-elle été impliquée dans la définition du problème et des bénéfices/préjudices potentiels du système d'IA ?",
+        "collectiveBenefit": "Bénéfice Collectif : Le système d'IA priorise-t-il le bien-être collectif par rapport au profit individuel ou d'entreprise ? Comment la valeur est-elle partagée ?",
+        "localContext": "Adaptation au Contexte Local : Comment le système d'IA est-il conçu pour être adaptable aux divers contextes locaux, langues et normes culturelles ?"
+      },
+      "pillar2": {
+        "title": "Pilier 2 : Souveraineté des Données & Réciprocité",
+        "consentOwnership": "Consentement & Propriété : Comment le consentement éclairé est-il obtenu, et qui possède les données et les modèles d'IA résultants ?",
+        "dataReciprocity": "Réciprocité des Données : Quelle valeur ou quel bénéfice tangible la communauté reçoit-elle en échange de ses données ?",
+        "dataGovernance": "Gouvernance des Données : Quels mécanismes dirigés par la communauté sont en place pour la gouvernance et la surveillance des données ?"
+      },
+      "pillar3": {
+        "title": "Pilier 3 : Équité Algorithmique & Transparence",
+        "biasAudit": "Audit des Biais : Comment avez-vous audité les données d'entraînement et le modèle pour les biais pertinents dans le contexte africain (par ex., ethniques, linguistiques, de genre) ?",
+        "explainability": "Explicabilité : Comment les décisions du système d'IA sont-elles rendues transparentes et compréhensibles pour les communautés affectées ?",
+        "humanInLoop": "Humain dans la Boucle & Griefs : Quels mécanismes sont en place pour la surveillance humaine et pour que les communautés puissent contester ou demander réparation des décisions algorithmiques ?"
+      },
+      "toolsetTitle": "Boîte à Outils APA pour la Mise en Œuvre",
+      "auditQuestions": "Questions d'Audit",
+      "toolsetDataSovereignty": "Accords de Souveraineté des Données (Modèle)",
+      "toolsetAiBiasAudit": "Cadre d'Audit des Biais de l'IA",
+      "toolsetGrmForAi": "MRG pour les Systèmes d'IA (Guide de Co-conception)",
+      "toolsetCommunityLedImpact": "Évaluation d'Impact Communautaire pour l'IA"
+    },
+    "certificationPlatform": {
+      "title": "Architecte de Module de Certification",
+      "description": "Un outil de planification pour définir les modules de vérification d'un programme de certification APA.",
+      "module1": {
+        "title": "Module 1 : Le Module d'Apprentissage & d'Auto-évaluation",
+        "quizzes": "Quiz & Scénarios Interactifs",
+        "realTimeFeedback": "Feedback en Temps Réel & Analyse des Lacunes",
+        "resourceLibrary": "Bibliothèque de Ressources Organisée"
+      },
+      "module2": {
+        "title": "Module 2 : L'Espace de Travail de Mise en Œuvre & de Co-création",
+        "docCoCreation": "Co-création de Documents & Contrôle de Version",
+        "transparentDashboard": "Tableau de Bord Transparent de Suivi des Progrès",
+        "grmIntegration": "Intégration & Gestion du MRG"
+      },
+      "module3": {
+        "title": "Module 3 : Le Module de Vérification & de Certification",
+        "independentAudit": "Piste d'Audit Indépendante",
+        "communityLedVerification": "Contribution à la Vérification par la Communauté",
+        "publicCredibilityScore": "Score de Crédibilité Public & Badge"
+      }
+    },
+    "grmCoDesign": {
+      "title": "Modèle de Co-conception de MRG",
+      "description": "Suivez un cadre étape par étape pour construire des mécanismes de réparation des griefs fiables.",
+      "step1": {
+        "title": "Étape 1 : Poser les Fondations",
+        "identifyActors": "Identifier et cartographier tous les acteurs pertinents",
+        "formTeam": "Former une équipe de co-conception de MRG multipartite"
+      },
+      "step2": {
+        "title": "Étape 2 : Définir le 'Quoi' et le 'Comment'",
+        "mapChannels": "Cartographier les canaux de réclamation formels et informels existants",
+        "identifyBarriers": "Identifier les barrières culturelles, sociales et logistiques à l'accès",
+        "defineGrievance": "Co-définir ce qui constitue un 'grief'"
+      },
+      "step3": {
+        "title": "Étape 3 : Concevoir le Processus du MRG",
+        "agreeOnPrinciples": "Se Mettre d'Accord sur les Principes Directeurs",
+        "principleFair": "Juste & Impartial",
+        "principleSimple": "Simple & Accessible",
+        "principleInclusive": "Inclusif & Sûr",
+        "principlePredictable": "Prévisible & Transparent",
+        "defineProcedure": "Définir l'Organigramme de la Procédure de Grief",
+        "flowchart": {
+          "receive": "Recevoir",
+          "acknowledge": "Accuser Réception",
+          "evaluate": "Évaluer & Enquêter",
+          "resolve": "Résoudre & Répondre",
+          "closing": "Clôture & Suivi",
+          "responsibility": "Responsabilité",
+          "timeline": "Délai"
+        }
+      },
+      "step4": {
+        "title": "Étape 4 : Communiquer et Renforcer les Capacités",
+        "communicationPlan": "Développer un plan de communication culturellement approprié",
+        "disseminateInfo": "Diffuser l'information par des canaux locaux de confiance"
+      },
+      "step5": {
+        "title": "Étape 5 : Surveiller, Apprendre et Adapter",
+        "regularReviews": "Mener des examens conjoints réguliers de l'efficacité du MRG",
+        "integrateFeedback": "Intégrer les commentaires pour adapter et améliorer le mécanisme"
+      }
+    },
+    "impactFunder": {
+      "title": "Modèle Stratégique pour Bailleur d'Impact",
+      "description": "Réorientez les modèles de financement vers un soutien flexible à long terme et une responsabilité mutuelle.",
+      "pillar1": {
+        "title": "Pilier 1 : Modèles de Financement & Stratégie",
+        "longTermFunding": "Financement Flexible à Long Terme : Comment passer de subventions de projet à court terme à un soutien de base à long terme ?",
+        "generalSupport": "Soutien Opérationnel Général : Comment pouvons-nous fournir un financement non restreint pour renforcer la résilience organisationnelle ?",
+        "sharedValue": "Investissement à Valeur Partagée : Comment pouvons-nous co-créer des stratégies de financement qui s'alignent sur nos objectifs et ceux de la communauté ?"
+      },
+      "pillar2": {
+        "title": "Pilier 2 : Mesure & Apprentissage",
+        "successMetrics": "Indicateurs de Succès Co-créés : Comment pouvons-nous impliquer les bénéficiaires dans la définition du succès ?",
+        "trustBasedReporting": "Rapports Basés sur la Confiance : Comment passer d'un reporting rigide à un modèle basé sur le dialogue et l'apprentissage ?",
+        "peerLearning": "Apprentissage par les Pairs & Partage de Connaissances : Comment pouvons-nous financer et faciliter des réseaux pour que les bénéficiaires apprennent les uns des autres ?"
+      },
+      "pillar3": {
+        "title": "Pilier 3 : Dynamiques de Pouvoir & Responsabilité",
+        "powerSharing": "Partage du Pouvoir dans la Gouvernance : Comment pouvons-nous inclure les voix des bénéficiaires et de la communauté dans nos instances de décision ?",
+        "grm": "Mécanisme de Réparation des Griefs pour les Bénéficiaires : Comment créer un canal sûr pour que les bénéficiaires puissent donner leur avis ou soulever des préoccupations ?",
+        "capacityBuilding": "Renforcement des Capacités de Partenariat : Comment pouvons-nous financer les 'compétences non techniques' du partenariat et de la négociation pour nos bénéficiaires ?"
+      }
+    },
+    "trustAudit": {
+      "title": "Modèle d'Audit de Confiance de Base",
+      "description": "Un outil de diagnostic pour évaluer les niveaux de confiance et identifier les griefs historiques.",
+      "section1": {
+        "title": "Section 1 : Aperçu du Projet & Contexte",
+        "project": "Projet/Initiative Audité",
+        "community": "Groupe Communautaire/Partie Prenante",
+        "team": "Membres de l'Équipe d'Audit",
+        "timeline": "Calendrier de l'Audit"
+      },
+      "section2": {
+        "title": "Section 2 : Analyse Approfondie des Parties Prenantes",
+        "stakeholderAnalysis": "Analyse des Parties Prenantes (Allez au-delà des leaders formels. Qui détient le pouvoir informel ? Qui est marginalisé ? Qui est un saboteur potentiel ?)",
+        "reflection": "Réflexion Initiale sur les Dynamiques de Pouvoir"
+      },
+      "section3": {
+        "title": "Section 3 : Évaluation des Niveaux de Confiance",
+        "pastExperiences": "Expériences Passées : Quelles interactions historiques (positives ou négatives) les parties prenantes ont-elles eues avec votre organisation ou des organisations similaires ?",
+        "reasons": "Raisons de la Confiance/Méfiance : Quelles sont les raisons spécifiques citées pour le niveau actuel de confiance ou de méfiance ?",
+        "beliefs": "Croyances Sous-jacentes : Quelles sont les croyances ou récits sous-jacents sur les intentions de votre organisation ?",
+        "communication": "Canaux de Communication : Comment l'information circule-t-elle ? Qui sont les sources d'information fiables dans la communauté ?",
+        "powerImbalance": "Déséquilibres de Pouvoir : Comment les parties prenantes perçoivent-elles les déséquilibres de pouvoir entre elles et votre organisation ?",
+        "reflection": "Réflexion sur les Principaux Moteurs de la Confiance/Méfiance"
+      },
+      "section4": {
+        "title": "Section 4 : Évaluation de la Préparation Interne (Auto-audit)",
+        "readinessPartner": "Volonté de Partenariat : Votre équipe est-elle culturellement et opérationnellement prête pour un processus de co-création ?",
+        "readinessPowerSharing": "Volonté de Partager le Pouvoir : Les processus de prise de décision sont-ils suffisamment flexibles pour intégrer la contribution de la communauté ?",
+        "readinessGrievance": "Volonté d'Entendre les Griefs : Y a-t-il une ouverture sincère à recevoir et à agir sur les commentaires négatifs ?",
+        "readinessSuccess": "Définition du Succès : Les incitations internes (par ex., les primes) sont-elles liées à des indicateurs de relation à long terme ou à des résultats de projet à court terme ?",
+        "readinessCompetence": "Compétence Culturelle : L'équipe possède-t-elle l'intelligence culturelle et les compétences de facilitation nécessaires ?"
+      },
+      "finalRecommendation": "Récommandation Finale & Prochaines Étapes"
+    },
+    "partnershipVetting": {
+      "title": "Liste de Contrôle de Sélection de Partenaire",
+      "description": "Effectuez une diligence raisonnable robuste sur les partenaires potentiels selon les critères de l'APA.",
+      "section1": {
+        "title": "Section 1 : Profil de l'Organisation",
+        "orgName": "Nom de l'Organisation",
+        "orgType": "Type d'Organisation (ONG, OCB, PME, etc.)",
+        "yearFounded": "Année de Création",
+        "countryOfOperation": "Pays/Région d'Opération",
+        "missionStatement": "Énoncé de Mission",
+        "keyContactPerson": "Personne de Contact Clé & Titre"
+      },
+      "section2": {
+        "title": "Section 2 : Diligence Raisonnable Légale & Financière",
+        "legalStatus": "Statut Légal & Enregistrement",
+        "financialStatements": "Examen des États Financiers (2 dernières années)",
+        "fundingSources": "Principales Sources de Financement & Dépendances",
+        "complianceIssues": "Problèmes juridiques ou de conformité passés ?"
+      },
+      "section3": {
+        "title": "Section 3 : Alignement avec les Principes de l'APA",
+        "apaPrincipleAlignment": "Preuve de l'alignement avec les principes de l'APA (Responsabilité, Partenariat, Progrès)",
+        "communityEngagementHistory": "Historique de l'Engagement Communautaire & Réputation",
+        "deiPolicy": "Politique & Pratique de Diversité, Équité et Inclusion (DEI)",
+        "grmExistence": "Existence et fonctionnalité d'un Mécanisme de Réparation des Griefs (MRG)"
+      },
+      "section4": {
+        "title": "Section 4 : Références",
+        "reference1": "Vérification de Référence 1 (Leader communautaire, ancien partenaire, etc.)",
+        "reference2": "Vérification de Référence 2 (Bailleur de fonds, fonctionnaire, etc.)"
+      },
+      "section5": {
+        "title": "Section 5 : Résumé & Recommandation",
+        "summaryOfStrengths": "Résumé des Points Forts",
+        "areasOfConcern": "Points de Préoccupation / Risques Potentiels",
+        "recommendation": "Recommandation (Poursuivre, Poursuivre avec prudence, Ne pas poursuivre)"
+      }
+    },
+    "partnershipReadiness": {
+      "title": "Évaluation de la Préparation au Partenariat",
+      "description": "Évaluez la préparation interne de votre organisation pour un partenariat équitable et authentique.",
+      "section1": {
+        "title": "Section 1 : Mentalité & Philosophie",
+        "understandingOfEquity": "Notre compréhension de l' 'équité' dans les partenariats est...",
+        "approachToFailure": "Notre approche de l' 'échec' et de l'apprentissage est...",
+        "longTermCommitment": "Notre engagement envers un investissement patient et à long terme est démontré par..."
+      },
+      "section2": {
+        "title": "Section 2 : Capacité & Processus Internes",
+        "dedicatedPersonnel": "Nous avons du personnel dédié avec les compétences suivantes pour la gestion des partenariats...",
+        "culturalCompetencyTraining": "La formation de notre équipe en compétence culturelle inclut...",
+        "decision-makingProcess": "Nos processus de prise de décision permettent la contribution de la communauté des manières suivantes..."
+      },
+      "section3": {
+        "title": "Section 3 : Flexibilité Opérationnelle",
+        "flexibleFunding": "Nos mécanismes de financement sont suffisamment flexibles pour soutenir une gestion adaptative car...",
+        "reportingExpectations": "Nos attentes en matière de rapports pour les partenaires locaux sont...",
+        "grmIntegrationPlan": "Notre plan d'intégration des commentaires et des griefs des bénéficiaires/partenaires est..."
+      },
+      "section4": {
+        "title": "Section 4 : Alignement Stratégique",
+        "sharedValueGoals": "Nos objectifs de valeur partagée qui alignent le succès de la communauté avec notre succès commercial sont...",
+        "riskAppetite": "Notre appétit pour les types de risques associés à un partenariat approfondi est...",
+        "successMetrics": "Nos indicateurs internes de 'succès' incluent les indicateurs suivants basés sur la relation et la confiance..."
+      }
+    },
+    "form": {
+      "priority": "Priorité",
+      "priorityLevels": {
+        "Low": "Basse",
+        "Medium": "Moyenne",
+        "High": "Haute"
+      },
+      "purpose": "Objectif et Buts",
+      "objective": "Objectif",
+      "outcome": "Résultat / Livrable Clé",
+      "coreActivities": "Activités Principales",
+      "keyFeatures": "Fonctionnalités Clés",
+      "keyTopics": "Sujets Clés",
+      "keyActions": "Actions Clés",
+      "goal": "But",
+      "action": "Action",
+      "phase1": "Phase 1 : Découverte & Diagnostic",
+      "communityImmersion": "Immersion Communautaire & Recherche Ethnographique",
+      "problemIdentification": "Identification Participative du Problème",
+      "assetMapping": "Cartographie des Atouts Communautaires",
+      "keyDeliverable": "Description du Livrable Clé",
+      "phase2": "Phase 2 : Co-conception & Prototypage",
+      "sharedValueCanvas": "Canevas de Modèle Économique à Valeur Partagée",
+      "prototyping": "Prototypage Basse-Fidélité & Tests",
+      "ethicalTech": "Intégration de Technologie Éthique",
+      "phase3": "Phase 3 : Validation & Mise sur le Marché",
+      "evaluationPlan": "Plan de S&E Co-créé",
+      "grievanceMechanism": "Conception d'un Mécanisme de Réparation des Griefs (MRG)",
+      "goToMarket": "Stratégie de Mise sur le Marché & de Mise à l'Échelle",
+      "policyPhase1": "Phase 1 : Diagnostic & Cartographie des Parties Prenantes",
+      "policyReview": "Examen des Politiques et Réglementations Existantes",
+      "stakeholderMapping": "Cartographie Approfondie des Parties Prenantes (incluant le pouvoir informel)",
+      "internalReadiness": "Évaluation de la Préparation & des Capacités Internes",
+      "policyPhase2": "Phase 2 : Co-conception & Développement du Cadre",
+      "coDesignWorkshop": "Facilitation d'Ateliers de Co-conception Multipartites",
+      "sharedValueFramework": "Développement d'un Cadre de Politique à Valeur Partagée",
+      "localOwnership": "Mécanismes pour l'Appropriation Locale & le Renforcement des Capacités",
+      "policyPhase3": "Phase 3 : Mise en Œuvre, S&E, & Certification",
+      "evaluation": "Cadre de S&E Participatif",
+      "certification": "Conception du Processus de Certification & de Vérification",
+      "day1": "Jour 1 : Comprendre & Cartographier",
+      "expertInterviews": "Entretiens avec des Experts",
+      "trustAuditInsights": "Analyse des Perspectives de l'Audit de Confiance",
+      "problemReframing": "Recadrage du Problème (Comment pourrions-nous...)",
+      "day2": "Jour 2 : Esquisser des Solutions",
+      "hmwQuestions": "Questions 'Comment Pourrions-Nous'",
+      "lightningDemos": "Démos Éclair",
+      "crazy8s": "Esquisse 'Crazy 8s'",
+      "day3": "Jour 3 : Décider",
+      "dotVoting": "Vote par Points & Sélection de la Solution",
+      "grmBlueprinting": "Ébauche du MRG",
+      "storyboard": "Scénarimage du Chemin Critique",
+      "day4": "Jour 4 : Prototyper",
+      "rapidPrototypage": "Prototypage Rapide",
+      "localization": "Localisation & Contextualisation",
+      "feedbackLoops": "Mise en Place de Boucles de Rétroaction",
+      "day5": "Jour 5 : Tester & Synthétiser",
+      "userInterviews": "Entretiens Utilisateurs avec le Prototype",
+      "maeFramework": "Intégration du Cadre EFA",
+      "synthesisNextSteps": "Synthèse & Prochaines Étapes",
+      "generateReport": "Générer un Rapport par l'IA",
+      "generating": "Génération du rapport...",
+      "generationError": "Désolé, une erreur est survenue lors de la génération du rapport. Veuillez réessayer.",
+      "maeSection1": "Section 1 : Principes Décoloniaux",
+      "decolonization": "Décolonisation du Savoir : Comment remettrez-vous en question les récits coloniaux et intégrerez-vous les systèmes de savoirs locaux ?",
+      "indigenization": "Indigénisation des Méthodes : Comment adapterez-vous les méthodologies pour refléter les normes et pratiques culturelles locales ?",
+      "participation": "Participation & Autonomisation : Comment vous assurerez-vous que l'évaluation est un processus participatif qui autonomise les communautés ?",
+      "ubuntu": "Intégration de la Philosophie Ubuntu : Comment intégrerez-vous les principes d'interconnexion et de bien-être collectif ?",
+      "maeSection2": "Section 2 : Termes de Référence (TdR) Co-créés",
+      "torObjectiveAnswer": "Objectif de l'Évaluation : Quel est le but principal de cette évaluation, co-defined avec les parties prenantes ?",
+      "torKpiAnswer": "Indicateurs de Performance Clés (KPI) : Quels sont les indicateurs clés de succès, définis du point de vue de la communauté ?",
+      "torDataCollectionAnswer": "Méthodes de Collecte de Données : Quelles méthodes participatives seront utilisées pour la collecte de données ?",
+      "torTimelineAnswer": "Calendrier & Rôles : Quel est le calendrier et qui détient quels rôles et responsabilités (y compris les membres de la communauté) ?",
+      "maeSection3": "Section 3 : Indicateurs Culturellement Pertinents",
+      "indicatorTrainedAnswer": "Exemple d'Indicateur (Quantitatif) : Nombre de femmes locales formées à la littératie financière.",
+      "indicatorClinicsAnswer": "Exemple d'Indicateur (Qualitatif) : Récits de changement de femmes qui accèdent maintenant aux cliniques de santé locales.",
+      "indicatorLoansAnswer": "Exemple d'Indicateur (Processus) : Niveau de participation communautaire aux processus de décision des prêts.",
+      "indicatorProduceAnswer": "Exemple d'Indicateur (Résultat) : Augmentation du revenu des ménages grâce à la vente des surplus de production.",
+      "maeSection4": "Section 4 : Le Rôle de l'Évaluateur",
+      "roleSeparation": "Séparation : Comment gérerez-vous la ligne fine entre évaluateur, facilitateur et défenseur ?",
+      "roleObjectivity": "Objectivité vs. Solidarité : Comment équilibrerez-vous l'analyse objective avec la solidarité envers la communauté ?",
+      "roleMeasurement": "Mesure vs. Signification : Comment vous assurerez-vous que les données quantitatives ne masquent pas la signification qualitative ?",
+      "roleExtraction": "Extraction vs. Autonomisation : Comment vous assurerez-vous que le processus d'évaluation autonomise plutôt qu'il n'extrait ?",
+      "leadershipModule1": "Module 1 : Diriger de l'Intérieur - Le Soi Authentique",
+      "maxim": "Maxime Africaine pour le Leadership",
+      "sharedPurpose": "Définir un Objectif Commun",
+      "relationalLeadership": "Leadership Relationnel vs. Transactionnel",
+      "activity": "Activité / Étude de Cas",
+      "leadershipModule2": "Module 2 : Le Pouvoir d'Ubuntu - Diriger Collectivement",
+      "dialogue": "Recherche de Consensus & Dialogue",
+      "harmony": "Social Harmony & Interdependence",
+      "embodiedEmpathy": "Empathie Incarnée",
+      "leadershipModule3": "Module 3 : Décoloniser le Leadership - Se Réapproprier les Récits",
+      "internalizedBias": "Lutter contre les Biais Intériorisés",
+      "narrative": "Changer le Récit",
+      "selfAwareness": "Conscience de Soi & Identité Culturelle",
+      "leadershipModule4": "Module 4 : Le Leader Responsable - Action & Héritage",
+      "implementation": "Mise en Œuvre & Pratique",
+      "mentorship": "Mentorat & Parrainage",
+      "communityOfPractice": "Créer une Communauté de Pratique"
+    },
+    "reportModal": {
+      "title": "Rapport d'Analyses Stratégiques",
+      "closeButton": "Fermer",
+      "copyButton": "Copier le Rapport",
+      "copySuccess": "Copié !"
+    }
+  },
+  "profilePage": {
+    "title": "Mon Profil",
+    "description": "Gérez vos informations personnelles et vos préférences de communication.",
+    "updateSuccess": "Profil mis à jour avec succès.",
+    "updateError": "Échec de la mise à jour du profil. Veuillez réessayer.",
+    "personalInfo": "Informations Personnelles",
+    "name": "Nom Complet",
+    "email": "Adresse E-mail",
+    "phone": "Numéro de Téléphone",
+    "userType": "Type d'Utilisateur",
+    "commPreferences": "Préférences de Communication",
+    "newsletter": "S'abonner à la newsletter de l'APA.",
+    "eventUpdates": "Recevoir des mises à jour sur les événements et les voyages.",
+    "saveChanges": "Enregistrer les modifications",
+    "history": "Mon Historique d'Activité",
+    "noHistory": "Aucune activité récente à afficher."
+  },
+  "notFoundPage": {
+    "title": "404",
+    "message": "Désolé, la page que vous recherchez n'existe pas.",
+    "goHome": "Retourner à l'accueil"
+  },
+  "imageGenerationPage": {
+    "title": "Studio d'Image IA",
+    "description": "Générez des images uniques avec l'IA. Décrivez ce que vous voulez voir et laissez la magie opérer.",
+    "promptLabel": "Votre Description (Prompt)",
+    "promptPlaceholder": "Ex: un robot tenant un skateboard rouge au Kenya...",
+    "aspectRatioLabel": "Format de l'Image",
+    "generateButton": "Générer",
+    "generatingButton": "Génération en cours...",
+    "downloadButton": "Télécharger l'Image",
+    "error": "Une erreur est survenue lors de la génération de l'image. Veuillez réessayer.",
+    "noImage": "Votre image générée apparaîtra ici.",
+    "generatedImageAlt": "Image générée pour : {prompt}",
+    "promptExamplesTitle": "Ou essayez un exemple :",
+    "promptExample1": "Un portrait photoréaliste d'un entrepreneur social à Lagos.",
+    "promptExample2": "Un paysage de savane africaine au coucher du soleil, style peinture à l'huile.",
+    "promptExample3": "Un logo moderne et minimaliste pour une startup technologique, avec un baobab."
+  },
+  "aiAgent": {
+    "inputPlaceholder": "Posez votre question...",
+    "sendMessage": "Envoyer"
+  }
+}

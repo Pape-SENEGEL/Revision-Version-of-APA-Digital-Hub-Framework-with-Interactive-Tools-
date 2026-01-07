@@ -1,0 +1,788 @@
+{
+  "appName": "APA | Digital Hub",
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "tours": "Journeys",
+    "resources": "Resources",
+    "solutions": "Solutions",
+    "profile": "My Profile",
+    "aiAssistant": "AI Concierge",
+    "framework": "APA Framework",
+    "frameworkGuide": "Interactive Guide",
+    "frameworkToolkit": "Implementation Toolkit",
+    "frameworkGlossary": "Framework Glossary",
+    "frameworkInteractiveTools": "Interactive Tools & Templates",
+    "generateImage": "Image Studio",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "myApplications": "My Applications",
+    "myBookmarks": "My Bookmarks"
+  },
+  "buttons": {
+    "cancel": "Cancel"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "homePage": {
+    "title": "The Premier Gateway to Africa's Future",
+    "subtitle": "Luxury, Impact, and Innovation.",
+    "description": "Discover bespoke journeys, access exclusive resources, and connect with a community dedicated to the ethical and sustainable prosperity of Africa.",
+    "ctaTours": "Discover Our Journeys",
+    "ctaResources": "Explore the Resource Center",
+    "whyApa": {
+      "title": "Why The APA Digital Hub?",
+      "subtitle": "We provide a singular, seamless platform for leaders, investors, and visionaries to engage with Africa's dynamic future.",
+      "cards": {
+        "platform": {
+          "title": "Unified Platform",
+          "description": "Seamlessly access journeys, resources, and community features in one elegant space."
+        },
+        "experience": {
+          "title": "Personalized Experience",
+          "description": "Tailored content and dashboards for your specific journey and engagement with APA."
+        },
+        "access": {
+          "title": "Bilingual Access",
+          "description": "Full content availability and support in both English and French for a wider, inclusive reach."
+        },
+        "concierge": {
+          "title": "AI-Powered Concierge",
+          "description": "Leverage our intelligent assistant for bespoke travel planning and insights across Africa."
+        }
+      }
+    },
+    "resilience": {
+      "title": "Transforming Risk into Resilience.",
+      "subtitle": "The APA Framework is not just a better way to do good, it's a better way to do business.",
+      "cards": {
+        "insight": {
+          "title": "Deep Contextual Insight",
+          "description": "Move beyond surface-level data. Our framework helps you understand local power dynamics, historical context, and community priorities to avoid costly missteps and build genuine social license."
+        },
+        "solutions": {
+          "title": "Co-Created Solutions",
+          "description": "Shift from top-down implementation to collaborative design. By co-creating solutions with communities, you build local ownership, ensure market relevance, and foster long-term sustainability."
+        },
+        "partnerships": {
+          "title": "Authentic Partnerships",
+          "description": "Build trust-based relationships that act as your greatest asset. Authentic partnerships unlock innovation, enhance brand loyalty, and create a stable operating environment in complex markets."
+        }
+      }
+    },
+    "strategicIdentity": {
+      "title": "APA Mission, Vision, and Value Proposition",
+      "description": "A clear and compelling strategic identity is the cornerstone of any successful organization. For APA, this identity must articulate not only what it does, but why it matters in the context of Africa's development.",
+      "mission": {
+        "title": "Mission",
+        "summary": "To deliver impactful projects focused on women's empowerment and ethical business.",
+        "text": "To build trust and deliver measurable impact in African development by implementing projects that empower women, champion ethical business, and decolonize traditional aid models."
+      },
+      "vision": {
+        "title": "Vision",
+        "summary": "An Africa where development is equitable, sustainable, and locally-led.",
+        "text": "An Africa where development is driven by equitable partnerships, women are at the forefront of economic empowerment, and ethical business is the standard for sustainable growth."
+      },
+      "valueProposition": {
+        "title": "Value Proposition",
+        "summary": "A trusted implementing agency delivering projects on time and on budget.",
+        "intro": "As a specialized implementing agency, Accountable Partners for Africa (APA) builds trust and guarantees impact by delivering complex development projects on time and within budget. Our systemic investing approach allows us to understand underlying systems, identify key leverage points, and engage diverse stakeholders to achieve collective, sustainable outcomes.",
+        "points": {
+          "businesses": {
+            "title": "For Businesses",
+            "text": "We provide a clear framework for ethical business practices that de-risk investments and unlock new market opportunities."
+          },
+          "funders": {
+            "title": "For Investors & Funders",
+            "text": "We are a trusted implementing partner that delivers measurable impact on time and on budget, with a focus on women's empowerment and systemic change."
+          },
+          "governments": {
+            "title": "For Governments & NGOs",
+            "text": "We offer a partnership model that decolonizes development, ensuring local ownership and building capacity for sustainable, self-directed growth."
+          },
+          "communities": {
+            "title": "For Communities",
+            "text": "We co-design and implement projects that empower communities, particularly women, to become key actors in their own economic and social development."
+          }
+        }
+      }
+    },
+    "trustedBy": {
+      "title": "Trusted By Leaders Across Africa",
+      "description": "We are proud to collaborate with a diverse network of partners who share our commitment to Africa's sustainable and equitable prosperity."
+    }
+  },
+  "dashboardPage": {
+    "title": "My Dashboard",
+    "welcome": "Welcome, {userName}! ({userType})",
+    "admin": {
+      "quickActions": "Admin Quick Actions"
+    },
+    "guest": {
+      "title": "Welcome to the APA Digital Hub",
+      "description": "Sign in or create an account to access your personalized dashboard and exclusive features.",
+      "signIn": "Sign In",
+      "signUp": "Create Account"
+    },
+    "member": {
+      "recommendedJourney": "Recommended Journey for You",
+      "recommendedResource": "Recommended Resource for You"
+    },
+    "stats": {
+      "applicationsSubmitted": "Applications Submitted",
+      "bookmarksSaved": "Bookmarks Saved",
+      "totalUsers": "Total Users",
+      "activeTours": "Active Journeys",
+      "newApplications": "New Applications (Week)",
+      "totalResources": "Total Resources",
+      "userGrowth": "User Growth (30d)",
+      "engagementRate": "Engagement Rate",
+      "pendingApplications": "Pending Applications",
+      "upcomingDeadlines": "Upcoming Deadlines",
+      "newPartners": "New Partners (Quarter)",
+      "pipelineValue": "Pipeline Value",
+      "activeEngagements": "Active Engagements"
+    },
+    "charts": {
+      "applicationsByStatus": "Applications by Status"
+    },
+    "tables": {
+      "recentApplications": {
+        "title": "Recent Applications"
+      }
+    },
+    "apaerDashboards": {
+      "projectManager": {
+        "actionCreate": "Create New Journey"
+      },
+      "dataAnalyst": {
+        "actionExport": "Export Full Report"
+      },
+      "businessDevelopmentManager": {
+        "actionAdd": "Add New Partner"
+      }
+    }
+  },
+  "toursPage": {
+    "title": "Curated African Journeys",
+    "description": "Embark on a transformative journey. Our tours are meticulously crafted to offer unparalleled insights into ethical business, social innovation, and sustainable development across Africa.",
+    "noTours": "No journeys available at the moment. Please check back later.",
+    "noToursFound": "No journeys match your selected criteria. Please try a different filter.",
+    "filterByDifficulty": "Filter by Difficulty",
+    "allDifficulties": "All Difficulties",
+    "aiAgent": {
+      "title": "Journey Advisor",
+      "initialMessage": "Hello! I can help you find the perfect APA journey. To get started, could you tell me a bit about your interests? Are you focused on tech, agriculture, leadership, or something else?"
+    },
+    "searchPlaceholder": "Search by keyword...",
+    "filterByDestination": "Destination",
+    "filterByIndustry": "Industry Focus",
+    "sortBy": "Sort By",
+    "allDestinations": "All Destinations",
+    "allIndustries": "All Industries",
+    "sortOptions": {
+      "default": "Default",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low",
+      "durationAsc": "Duration: Short to Long",
+      "durationDesc": "Duration: Long to Short"
+    }
+  },
+  "aiAssistantPage": {
+    "title": "Your AI Concierge for Africa",
+    "description": "Your personal AI assistant for a bespoke travel planning in Africa. Get expert advice on destinations, culture, logistics, and safety.",
+    "inputPlaceholder": "Ask for travel advice, cultural etiquette...",
+    "sendMessage": "Send",
+    "loading": "Thinking...",
+    "error": "An error occurred. Please try again.",
+    "apiKeyMissing": "Gemini API Key is not configured. This feature is unavailable.",
+    "searchDisclaimer": "Information may be supplemented by Google Search. Cited sources:",
+    "noSources": "No external sources cited for this response.",
+    "searchingFlights": "Searching for available flights...",
+    "suggestionBookFlight": "Book a flight",
+    "attachFile": "Attach File",
+    "removeFile": "Remove file",
+    "uploadError": "Error reading file. Please try a different one.",
+    "fileAttached": "File Attached:",
+    "systemInstructionWithFile": "You are a friendly and knowledgeable travel assistant specializing in Africa. Provide helpful tips, suggestions, and information for travelers. You can also act as a flight booking agent. When a user wants to book a flight, ask for their destination, departure date, return date, and number of passengers. Once you have this information, you must call the `bookFlight` tool. Do not make up flight information. You can also analyze user-uploaded documents like itineraries or visa requirements to provide tailored advice."
+  },
+  "toolkitPage": {
+    "title": "APA Implementation Toolkit",
+    "description": "Your central hub for practical resources to adopt and operationalize the APA Framework within your organization.",
+    "glossary": {
+      "title": "Framework Glossary",
+      "description": "Explore definitions for all key terms, concepts, and tools in the APA Framework."
+    },
+    "guide": {
+      "title": "Interactive Guide",
+      "description": "Use our interactive guide to start building your organization's unique APA strategy."
+    },
+    "templates": {
+      "title": "Templates & Worksheets",
+      "description": "Download practical templates for stakeholder mapping, trust audits, and more. (Coming soon)"
+    },
+    "interactiveTools": {
+      "title": "Interactive Tools & Templates",
+      "description": "Engage directly with the APA Framework using our interactive forms and AI-powered report generators."
+    }
+  },
+  "glossaryPage": {
+    "title": "Framework Glossary",
+    "description": "An interactive glossary of all core APA Framework terms, concepts, and tools. Use the search to find exactly what you need.",
+    "searchPlaceholder": "Search terms and definitions...",
+    "noResults": "No matching terms found. Try a different search.",
+    "categories": {
+      "corePrinciples": {
+        "title": "Core Principles"
+      },
+      "keyConcepts": {
+        "title": "Key Concepts"
+      },
+      "roadmapStages": {
+        "title": "Roadmap Stages"
+      },
+      "diagnosticTools": {
+        "title": "Diagnostic Tools"
+      },
+      "accountabilityMechanisms": {
+        "title": "Accountability Mechanisms"
+      },
+      "funderSolutions": {
+        "title": "Solutions for Funders & Donors"
+      },
+      "governmentSolutions": {
+        "title": "Solutions for Governments"
+      },
+      "commonChallenges": {
+        "title": "Common Challenges"
+      },
+      "comparativeModels": {
+        "title": "Comparative Models"
+      },
+      "outcomesBenefits": {
+        "title": "Outcomes & Benefits"
+      }
+    },
+    "terms": {
+      "apaFramework": {
+        "term": "APA Framework",
+        "definition": "A holistic, integrated philosophy and operational model for building authentic, trust-based partnerships in Africa, centered on the four pillars of DEI, Business as Engine, Trust, and Accountability."
+      },
+      "deiLitmusTest": {
+        "term": "DEI as Litmus Test",
+        "definition": "The core principle that the authenticity of a partnership is measured by how deeply diverse voices are included and genuinely empowered in decision-making processes."
+      },
+      "businessAsEngine": {
+        "term": "Business as Engine",
+        "definition": "The principle that core business practices, not peripheral philanthropy or CSR, are the most powerful and sustainable drivers of positive social impact and shared value."
+      },
+      "buildingTrust": {
+        "term": "Building Trust",
+        "definition": "The foundational principle that long-term, patient investment in relationships is the essential prerequisite for creating resilient and successful partnerships."
+      },
+      "accountabilityArchitecture": {
+        "term": "Accountability Architecture",
+        "definition": "The set of formal, co-created mechanisms (like GRMs, participatory M&E, and joint governance bodies) that ensure mutual accountability between all partners."
+      },
+      "authenticityPremium": {
+        "term": "Authenticity Premium",
+        "definition": "The measurable business advantage (including reduced risk, stronger brand loyalty, improved access to capital, and enhanced innovation) gained from genuine, trust-based stakeholder relationships."
+      },
+      "sharedValue": {
+        "term": "Shared Value",
+        "definition": "The concept that corporate success and social well-being are interdependent. A business creates shared value by identifying and addressing social problems that intersect with its business."
+      },
+      "socialLicense": {
+        "term": "Social License to Operate (SLO)",
+        "definition": "The ongoing acceptance or approval of a company's operations by its local community and other stakeholders. Authentic partnership is the most effective means of securing a stable SLO."
+      },
+      "businessIntegration": {
+        "term": "Business Integration",
+        "definition": "The degree to which social impact and community partnership are embedded within core business strategy, operations, and P&L, rather than being siloed in a separate department."
+      },
+      "communityPower": {
+        "term": "Community Power",
+        "definition": "The extent to which community members are not just consulted but are active co-creators, co-owners, and decision-makers in an initiative, with shared power in governance."
+      },
+      "riskToResilience": {
+        "term": "From Risk to Resilience",
+        "definition": "The APA concept that proactively addressing social and trust-related risks through authentic partnership is the most effective long-term strategy for building business resilience."
+      },
+      "diagnosticPhase": {
+        "term": "Diagnostic Phase",
+        "definition": "The first stage of the APA Roadmap, involving a trust audit, deep stakeholder mapping, and an assessment of internal barriers to partnership."
+      },
+      "pilotSelection": {
+        "term": "Pilot Selection",
+        "definition": "The second stage of the APA Roadmap: choosing a visible, high-impact area to test the APA model and build internal buy-in."
+      },
+      "coCreationDesign": {
+        "term": "Co-Creation & Design",
+        "definition": "The third and most critical stage of the APA Roadmap: a 6-12 month joint design process focused on building relationships before defining outcomes."
+      },
+      "implementationME": {
+        "term": "Implementation & M&E",
+        "definition": "The fourth stage of the APA Roadmap, focused on launching the pilot with adaptive management and co-designed Monitoring & Evaluation systems."
+      },
+      "scaleIntegrate": {
+        "term": "Scale & Integrate",
+        "definition": "The final stage of the APA Roadmap: embedding learnings from the pilot into corporate strategy, procurement policies, and internal incentive structures."
+      },
+      "trustAudit": {
+        "term": "Trust Audit",
+        "definition": "A diagnostic tool used in the initial phase to assess the current level of trust (or mistrust) between a company and its stakeholders, identifying historical grievances and perceptions."
+      },
+      "stakeholderMapping": {
+        "term": "Stakeholder Mapping",
+        "definition": "A diagnostic process that goes beyond identifying obvious leaders to find and understand the perspectives of marginalized, less visible, or opposing voices within a community."
+      },
+      "pea": {
+        "term": "Political Economy Analysis (PEA)",
+        "definition": "A diagnostic method for understanding the interaction of political and economic processes in a society: who the key actors are, what their interests are, and how power is distributed."
+      },
+      "stakeholderScore": {
+        "term": "Stakeholder Engagement Score",
+        "definition": "A metric for quantifying the quality and depth of stakeholder relationships, moving beyond simply counting meetings to assess the level of trust and mutual influence."
+      },
+      "mutualAccountability": {
+        "term": "Accountability (Mutual)",
+        "definition": "A system where accountability flows in all directions. The company is accountable to the community for its commitments, and the community is accountable to the company for its role in the partnership."
+      },
+      "grm": {
+        "term": "Grievance Redress Mechanism (GRM)",
+        "definition": "A formal, co-designed system that allows community members to raise complaints and seek resolution in a safe, accessible, and trusted manner. It is a cornerstone of the Accountability Architecture."
+      },
+      "participatoryME": {
+        "term": "Participatory Monitoring & Evaluation (M&E)",
+        "definition": "An approach to M&E where community members are actively involved in defining success indicators, collecting data, and analyzing results, ensuring the evaluation reflects local priorities."
+      },
+      "independentVerification": {
+        "term": "Independent Verification",
+        "definition": "The use of credible, third-party organizations to verify a company's claims about its social performance and adherence to APA principles, building trust with external stakeholders."
+      },
+      "coCreatedPlans": {
+        "term": "Co-created Local Development Plans",
+        "definition": "A key output of the co-creation process, where development priorities and benefit-sharing mechanisms are designed jointly by the company and the community, rather than imposed top-down."
+      },
+      "shiftFundingModels": {
+        "term": "Shift Funding Models (for Funders)",
+        "definition": "An actionable insight for foundations to move from short-term, project-based grants to long-term, flexible, core funding that supports the process of trust-building."
+      },
+      "fundTheArchitecture": {
+        "term": "Fund the Architecture (for Funders)",
+        "definition": "An actionable insight for funders to provide dedicated funding for the independent 'architecture of accountability,' such as community paralegal programs or impartial GRMs."
+      },
+      "conveneCatalyze": {
+        "term": "Convene and Catalyze",
+        "definition": "The role foundations can play as neutral third parties to convene dialogues between communities, companies, and governments to de-risk the initial stages of partnership."
+      },
+      "coreFunding": {
+        "term": "Core Funding",
+        "definition": "Flexible, long-term funding that supports an organization's essential operational costs, rather than being restricted to a specific project. This model enables adaptability and trust-building."
+      },
+      "patientCapital": {
+        "term": "Patient Capital",
+        "definition": "Long-term investment that is willing to accept below-market returns for a period in order to achieve greater social impact."
+      },
+      "policyIntegration": {
+        "term": "Policy Integration (for Governments)",
+        "definition": "An actionable insight for governments to embed APA principles (like co-creation and GRMs) as requirements in regulations for foreign direct investment."
+      },
+      "incentivizeAuthenticity": {
+        "term": "Incentivize Authenticity",
+        "definition": "An actionable insight for governments to create tax incentives or streamlined permitting for companies that can demonstrate verified APA-compliant practices."
+      },
+      "partnershipCapacityBuilding": {
+        "term": "Partnership Capacity Building",
+        "definition": "Funding and support for local communities to engage with private sector partners on a more equal footing, including training in negotiation, financial literacy, contract law, and participatory planning to ensure communities can be effective partners."
+      },
+      "investmentReadiness": {
+        "term": "'Investment Readiness' Paradigm",
+        "definition": "The dominant but flawed view that communities must be 'made ready' for investment, a paradigm the APA Framework seeks to replace with 'Partnership Readiness' for investors."
+      },
+      "trustDeficits": {
+        "term": "Trust Deficits",
+        "definition": "The deep-seated skepticism and mistrust that communities often hold toward external actors due to generations of broken promises and extractive projects."
+      },
+      "corporateInertia": {
+        "term": "Corporate Inertia",
+        "definition": "The resistance within large organizations to adopting new, seemingly slower processes like the APA Framework, due to a culture that prioritizes speed and top-down control."
+      },
+      "traditionalCSR": {
+        "term": "Traditional CSR",
+        "definition": "An approach where social impact is treated as a separate, often philanthropic function, disconnected from core business strategy, with low strategic value and community empowerment."
+      },
+      "standardESG": {
+        "term": "Standard ESG",
+        "definition": "An approach where social metrics are tracked primarily for compliance and risk mitigation, with stakeholder consultation but limited sharing of decision-making power."
+      },
+      "apaFrameworkModel": {
+        "term": "APA Framework (as a model)",
+        "definition": "An approach where shared value creation is at the heart of business strategy. Community members are co-creators with shared governance, and mutual accountability is built into the model through co-designed M&E and formal mechanisms."
+      },
+      "reducedRisk": {
+        "term": "Reduced Operational Risk (Premium)",
+        "definition": "A key component of the Authenticity Premium, where authentic partnerships create a stable social license to operate, reducing disruptions from protests and lowering regulatory risks."
+      },
+      "brandLoyalty": {
+        "term": "Stronger Brand Loyalty (Premium)",
+        "definition": "A key component of the Authenticity Premium, where demonstrating genuine ethical commitment leads to higher customer retention and a more engaged and motivated workforce."
+      },
+      "partnershipLongevity": {
+        "term": "Partnership Longevity",
+        "definition": "The outcome of building trust and mutual accountability, resulting in partnerships that are resilient and able to navigate long-term challenges."
+      }
+    }
+  },
+  "interactiveToolsPage": {
+    "title": "Interactive Tools & Templates",
+    "description": "Engage directly with the APA Framework using our smart interactive forms. Select a tool to generate a professional, AI-powered strategic report tailored to your organization.",
+    "selectTool": "Select a Resource:",
+    "generateReport": "Generate Strategic AI Report",
+    "incubatorBlueprint": {
+      "title": "Shared Value Incubator Blueprint",
+      "description": "A comprehensive tool to structure your incubator program from community immersion to scaling."
+    },
+    "policyAdvisory": {
+      "title": "Public Policy Advisory Guide",
+      "description": "Design policy frameworks that embed APA principles to attract and secure sustainable investment."
+    },
+    "designSprint": {
+      "title": "Contextual Design Sprint Template",
+      "description": "Plan an intensive 5-day sprint to rapidly validate business models for diverse African markets."
+    },
+    "maeToolkit": {
+      "title": "'Made in Africa' Evaluation Toolkit",
+      "description": "Operationalize M&E based on decolonial principles and indigenous African philosophies."
+    },
+    "leadershipProgram": {
+      "title": "Leadership Development Planner",
+      "description": "A template to build culturally resonant programs that develop authentic African leaders."
+    },
+    "aiGovernance": {
+      "title": "AI Governance & Data Sovereignty Framework",
+      "description": "A comprehensive toolset to audit AI systems for ethical risks and bias, ensuring alignment with African-centric data sovereignty and accountability standards.",
+      "pillar1": {
+        "title": "Pillar 1: Community & Collective Benefit",
+        "communityImpact": "Community Impact Assessment: How has the community been involved in defining the problem and the potential benefits/harms of the AI system?",
+        "collectiveBenefit": "Collective Benefit: Does the AI system prioritize collective well-being over individual or corporate profit? How is value shared?",
+        "localContext": "Local Context Adaptation: How is the AI system designed to be adaptable to diverse local contexts, languages, and cultural norms?"
+      },
+      "pillar2": {
+        "title": "Pillar 2: Data Sovereignty & Reciprocity",
+        "consentOwnership": "Consent & Ownership: How is informed consent obtained, and who owns the data and the resulting AI models?",
+        "dataReciprocity": "Data Reciprocity: What tangible value or benefit does the community receive in exchange for their data?",
+        "dataGovernance": "Data Governance: What community-led mechanisms are in place for data governance and oversight?"
+      },
+      "pillar3": {
+        "title": "Pillar 3: Algorithmic Fairness & Transparency",
+        "biasAudit": "Bias Audit: How have you audited the training data and model for biases relevant to the African context (e.g., ethnic, linguistic, gender)?",
+        "explainability": "Explainability: How are the AI system's decisions made transparent and understandable to the affected communities?",
+        "humanInLoop": "Human-in-the-Loop & Grievance: What mechanisms are in place for human oversight and for communities to contest or seek redress from algorithmic decisions?"
+      },
+      "toolsetTitle": "APA Toolset for Implementation",
+      "auditQuestions": "Audit Questions",
+      "toolsetDataSovereignty": "Data Sovereignty Agreements (Template)",
+      "toolsetAiBiasAudit": "AI Bias Audit Framework",
+      "toolsetGrmForAi": "GRM for AI Systems (Co-design Guide)",
+      "toolsetCommunityLedImpact": "Community-Led Impact Assessment for AI"
+    },
+    "certificationPlatform": {
+      "title": "Certification Module Architect",
+      "description": "A planning tool to outline the verification modules for an APA-aligned certification program.",
+      "module1": {
+        "title": "Module 1: The Learning & Self-Assessment Module",
+        "quizzes": "Interactive Quizzes & Scenarios",
+        "realTimeFeedback": "Real-time Feedback & Gap Analysis",
+        "resourceLibrary": "Curated Resource Library"
+      },
+      "module2": {
+        "title": "Module 2: The Implementation & Co-Creation Workspace",
+        "docCoCreation": "Document Co-creation & Version Control",
+        "transparentDashboard": "Transparent Progress-Tracking Dashboard",
+        "grmIntegration": "GRM Integration & Management"
+      },
+      "module3": {
+        "title": "Module 3: The Verification & Certification Module",
+        "independentAudit": "Independent Audit Trail",
+        "communityLedVerification": "Community-Led Verification Input",
+        "publicCredibilityScore": "Public Credibility Score & Badge"
+      }
+    },
+    "grmCoDesign": {
+      "title": "GRM Co-Design Template",
+      "description": "Follow a step-by-step framework to build trusted, community-centric grievance mechanisms.",
+      "step1": {
+        "title": "Step 1: Laying the Foundation",
+        "identifyActors": "Identify and map all relevant actors",
+        "formTeam": "Form a multi-stakeholder GRM co-design team"
+      },
+      "step2": {
+        "title": "Step 2: Define the 'What' and 'How'",
+        "mapChannels": "Map existing formal and informal grievance channels",
+        "identifyBarriers": "Identify cultural, social, and logistical barriers to access",
+        "defineGrievance": "Co-define what constitutes a 'grievance'"
+      },
+      "step3": {
+        "title": "Step 3: Design the GRM Process",
+        "agreeOnPrinciples": "Agree on Guiding Principles",
+        "principleFair": "Fair & Impartial",
+        "principleSimple": "Simple & Accessible",
+        "principleInclusive": "Inclusive & Safe",
+        "principlePredictable": "Predictable & Transparent",
+        "defineProcedure": "Define the Grievance Procedure Flowchart",
+        "flowchart": {
+          "receive": "Receive",
+          "acknowledge": "Acknowledge",
+          "evaluate": "Evaluate & Investigate",
+          "resolve": "Resolve & Respond",
+          "closing": "Closing & Follow-up",
+          "responsibility": "Responsibility",
+          "timeline": "Timeline"
+        }
+      },
+      "step4": {
+        "title": "Step 4: Communicate and Build Capacity",
+        "communicationPlan": "Develop a culturally appropriate communication plan",
+        "disseminateInfo": "Disseminate information through trusted local channels"
+      },
+      "step5": {
+        "title": "Step 5: Monitor, Learn, and Adapt",
+        "regularReviews": "Conduct regular joint reviews of the GRM's effectiveness",
+        "integrateFeedback": "Integrate feedback to adapt and improve the mechanism"
+      }
+    },
+    "impactFunder": {
+      "title": "Impact Funder Strategy Template",
+      "description": "Reorient funding models towards flexible, long-term support and mutual accountability.",
+      "pillar1": {
+        "title": "Pillar 1: Funding Models & Strategy",
+        "longTermFunding": "Long-Term, Flexible Funding: How can we shift from short-term project grants to long-term core support?",
+        "generalSupport": "General Operating Support: How can we provide unrestricted funding to build organizational resilience?",
+        "sharedValue": "Shared Value Investing: How can we co-create funding strategies that align with both our goals and community goals?"
+      },
+      "pillar2": {
+        "title": "Pillar 2: Measurement & Learning",
+        "successMetrics": "Co-created Success Metrics: How can we involve grantees in defining what success looks like?",
+        "customStyles": "Custom visual styles for better data presentation.",
+        "trustBasedReporting": "Trust-Based Reporting: How can we move from rigid reporting to a model based on dialogue and learning?",
+        "peerLearning": "Peer Learning & Knowledge Sharing: How can we fund and facilitate networks for grantees to learn from each other?"
+      },
+      "pillar3": {
+        "title": "Pillar 3: Power Dynamics & Accountability",
+        "powerSharing": "Power-Sharing in Governance: How can we include grantee and community voices in our decision-making bodies?",
+        "grm": "Grantee Grievance Mechanism: How do we create a safe channel for grantees to provide feedback or raise concerns?",
+        "capacityBuilding": "Capacity Building for Partnership: How can we fund the 'soft skills' of partnership and negotiation for our grantees?"
+      }
+    },
+    "trustAudit": {
+      "title": "Baseline Trust Audit Template",
+      "description": "A diagnostic tool to assess stakeholder trust levels and identify historical grievances.",
+      "section1": {
+        "title": "Section 1: Project Overview & Context",
+        "project": "Project/Initiative Being Audited",
+        "community": "Community/Stakeholder Group",
+        "team": "Audit Team Members",
+        "timeline": "Audit Timeline"
+      },
+      "section2": {
+        "title": "Section 2: Deep Stakeholder Analysis",
+        "stakeholderAnalysis": "Stakeholder Analysis (Go beyond formal leaders. Who holds informal power? Who is marginalized? Who is a potential spoiler?)",
+        "reflection": "Initial Reflection on Power Dynamics"
+      },
+      "section3": {
+        "title": "Section 3: Assessing Trust Levels",
+        "pastExperiences": "Past Experiences: What historical interactions (positive or negative) have stakeholders had with your organization or similar ones?",
+        "reasons": "Reasons for Trust/Mistrust: What are the specific reasons cited for the current level of trust or mistrust?",
+        "beliefs": "Underlying Beliefs: What are the underlying beliefs or narratives about your organization's intentions?",
+        "communication": "Communication Channels: How does information flow? Who are the trusted sources of information in the community?",
+        "powerImbalance": "Power Imbalances: How do stakeholders perceive power imbalances between them and your organization?",
+        "reflection": "Reflection on Key Drivers of Trust/Mistrust"
+      },
+      "section4": {
+        "title": "Section 4: Internal Readiness Assessment (Self-Audit)",
+        "readinessPartner": "Willingness to Partner: Is your team culturally and operationally ready for a co-creation process?",
+        "readinessPowerSharing": "Willingness to Share Power: Are decision-making processes flexible enough to incorporate community input?",
+        "readinessGrievance": "Willingness to Hear Grievances: Is there a genuine openness to receiving and acting on negative feedback?",
+        "readinessSuccess": "Definition of Success: Are internal incentives (e.g., bonuses) tied to long-term relationship metrics or short-term project outputs?",
+        "readinessCompetence": "Cultural Competence: Does the team possess the necessary cultural intelligence and facilitation skills?"
+      },
+      "finalRecommendation": "Final Recommendation & Next Steps"
+    },
+    "partnershipVetting": {
+      "title": "Partner Vetting Checklist",
+      "description": "Perform robust due diligence on potential partners using APA vetting criteria.",
+      "section1": {
+        "title": "Section 1: Organizational Profile",
+        "orgName": "Organization Name",
+        "orgType": "Organization Type (NGO, CBO, SME, etc.)",
+        "yearFounded": "Year Founded",
+        "countryOfOperation": "Country/Region of Operation",
+        "missionStatement": "Mission Statement",
+        "keyContactPerson": "Key Contact Person & Title"
+      },
+      "section2": {
+        "title": "Section 2: Legal & Financial Due Diligence",
+        "legalStatus": "Legal Status & Registration",
+        "financialStatements": "Review of Financial Statements (past 2 years)",
+        "fundingSources": "Major Funding Sources & Dependencies",
+        "complianceIssues": "Any past legal or compliance issues?"
+      },
+      "section3": {
+        "title": "Section 3: Alignment with APA Principles",
+        "apaPrincipleAlignment": "Evidence of alignment with APA principles (Accountability, Partnership, Advancement)",
+        "communityEngagementHistory": "History of Community Engagement & Reputation",
+        "deiPolicy": "Diversity, Equity, and Inclusion (DEI) Policy & Practice",
+        "grmExistence": "Existence and functionality of a Grievance Redress Mechanism (GRM)"
+      },
+      "section4": {
+        "title": "Section 4: References",
+        "reference1": "Reference Check 1 (Community leader, past partner, etc.)",
+        "reference2": "Reference Check 2 (Funder, government official, etc.)"
+      },
+      "section5": {
+        "title": "Section 5: Summary & Recommendation",
+        "summaryOfStrengths": "Summary of Strengths",
+        "areasOfConcern": "Areas of Concern / Potential Risks",
+        "recommendation": "Recommendation (Proceed, Proceed with Caution, Do Not Proceed)"
+      }
+    },
+    "partnershipReadiness": {
+      "title": "Partnership Readiness Assessment",
+      "description": "Evaluate your organization's internal readiness for equitable and authentic partnership.",
+      "section1": {
+        "title": "Section 1: Mindset & Philosophy",
+        "understandingOfEquity": "Our understanding of 'equity' in partnerships is...",
+        "approachToFailure": "Our approach to 'failure' and learning is...",
+        "longTermCommitment": "Our commitment to long-term, patient investment is demonstrated by..."
+      },
+      "section2": {
+        "title": "Section 2: Internal Capacity & Processes",
+        "dedicatedPersonnel": "We have dedicated personnel with the following skills for partnership management...",
+        "culturalCompetencyTraining": "Our team's training in cultural competency includes...",
+        "decisionMakingProcess": "Our decision-making processes allow for community input in the following ways..."
+      },
+      "section3": {
+        "title": "Section 3: Operational Flexibility",
+        "flexibleFunding": "Our funding mechanisms are flexible enough to support adaptive management because...",
+        "reportingExpectations": "Our reporting expectations for local partners are...",
+        "grmIntegrationPlan": "Our plan for integrating grantee/partner feedback and grievances is..."
+      },
+      "section4": {
+        "title": "Section 4: Strategic Alignment",
+        "sharedValueGoals": "Our shared value goals that align community success with our business success are...",
+        "riskAppetite": "Our appetite for the types of risks associated with deep partnership is...",
+        "successMetrics": "Our internal metrics for 'success' include the following relationship and trust-based indicators..."
+      }
+    },
+    "form": {
+      "priority": "Priority",
+      "priorityLevels": {
+        "Low": "Low",
+        "Medium": "Medium",
+        "High": "High"
+      },
+      "purpose": "Purpose & Goals",
+      "objective": "Objective",
+      "outcome": "Outcome / Key Deliverable",
+      "coreActivities": "Core Activities",
+      "keyFeatures": "Key Features",
+      "keyTopics": "Key Topics",
+      "keyActions": "Key Actions",
+      "goal": "Goal",
+      "action": "Action",
+      "phase1": "Phase 1: Discovery & Diagnosis",
+      "communityImmersion": "Community Immersion & Ethnographic Research",
+      "problemIdentification": "Participatory Problem Identification",
+      "assetMapping": "Community Asset Mapping",
+      "keyDeliverable": "Key Deliverable Description",
+      "phase2": "Phase 2: Co-Design & Prototyping",
+      "sharedValueCanvas": "Shared Value Business Model Canvas",
+      "prototyping": "Low-Fidelity Prototyping & Testing",
+      "ethicalTech": "Ethical Technology Integration",
+      "phase3": "Phase 3: Validation & Go-to-Market",
+      "evaluationPlan": "Co-created M&E Plan",
+      "grievanceMechanism": "Grievance Redress Mechanism (GRM) Design",
+      "goToMarket": "Go-to-Market & Scaling Strategy",
+      "policyPhase1": "Phase 1: Diagnostic & Stakeholder Mapping",
+      "policyReview": "Existing Policy & Regulatory Review",
+      "stakeholderMapping": "Deep Stakeholder Mapping (including informal power)",
+      "internalReadiness": "Internal Readiness & Capacity Assessment",
+      "policyPhase2": "Phase 2: Co-Design & Framework Development",
+      "coDesignWorkshop": "Multi-stakeholder Co-design Workshop Facilitation",
+      "sharedValueFramework": "Shared Value Policy Framework Development",
+      "localOwnership": "Mechanisms for Local Ownership & Capacity Building",
+      "policyPhase3": "Phase 3: Implementation, M&E, & Certification",
+      "evaluation": "Participatory M&E Framework",
+      "certification": "Certification & Verification Process Design",
+      "day1": "Day 1: Understand & Map",
+      "expertInterviews": "Expert Interviews",
+      "trustAuditInsights": "Trust Audit Insights Review",
+      "problemReframing": "Problem Reframing (How Might We...)",
+      "day2": "Day 2: Sketch Solutions",
+      "hmwQuestions": "HMW Questions",
+      "lightningDemos": "Lightning Demos",
+      "crazy8s": "Crazy 8s Sketching",
+      "day3": "Day 3: Decide",
+      "dotVoting": "Dot-voting & Solution Selection",
+      "grmBlueprinting": "GRM Blueprinting",
+      "storyboard": "Storyboard Critical Path",
+      "day4": "Day 4: Prototype",
+      "rapidPrototyping": "Rapid Prototyping",
+      "localization": "Localization & Contextualization",
+      "feedbackLoops": "Feedback Loops Setup",
+      "day5": "Day 5: Test & Synthesize",
+      "userInterviews": "User Interviews with Prototype",
+      "maeFramework": "MAE Framework Integration",
+      "synthesisNextSteps": "Synthesis & Next Steps",
+      "generateReport": "Generate AI-Powered Report",
+      "generating": "Generating report...",
+      "generationError": "Sorry, an error occurred while generating the report. Please try again.",
+      "maeSection1": "Section 1: Decolonial Principles",
+      "decolonization": "Decolonization of Knowledge: How will you challenge colonial narratives and integrate local knowledge systems?",
+      "indigenization": "Indigenization of Methods: How will you adapt methodologies to reflect local cultural norms and practices?",
+      "participation": "Participation & Empowerment: How will you ensure evaluation is a participatory process that empowers communities?",
+      "ubuntu": "Ubuntu Philosophy Integration: How will you incorporate the principles of interconnectedness and collective well-being?",
+      "maeSection2": "Section 2: Co-created Terms of Reference (ToR)",
+      "torObjectiveAnswer": "Evaluation Objective: What is the primary purpose of this evaluation, co-defined with stakeholders?",
+      "torKpiAnswer": "Key Performance Indicators (KPIs): What are the key indicators of success, defined from a community perspective?",
+      "torDataCollectionAnswer": "Data Collection Methods: What participatory methods will be used for data collection?",
+      "torTimelineAnswer": "Timeline & Roles: What is the timeline and who holds what roles and responsibilities (including community members)?",
+      "maeSection3": "Section 3: Culturally Resonant Indicators",
+      "indicatorTrainedAnswer": "Example Indicator (Quantitative): Number of local women trained in financial literacy.",
+      "indicatorClinicsAnswer": "Example Indicator (Qualitative): Stories of change from women who now access local health clinics.",
+      "indicatorLoansAnswer": "Example Indicator (Process): Level of community participation in loan decision-making processes.",
+      "indicatorProduceAnswer": "Example Indicator (Outcome): Increase in household income from selling surplus produce.",
+      "maeSection4": "Section 4: The Role of the Evaluator",
+      "roleSeparation": "Separation: How will you manage the fine line between evaluator, facilitator, and advocate?",
+      "roleObjectivity": "Objectivity vs. Solidarity: How will you balance objective analysis with solidarity with the community?",
+      "roleMeasurement": "Measurement vs. Meaning: How will you ensure quantitative data does not overshadow qualitative meaning?",
+      "roleExtraction": "Extraction vs. Empowerment: How will you ensure the evaluation process empowers rather than extracts?",
+      "leadershipModule1": "Module 1: Leading from Within - The Authentic Self",
+      "maxim": "African Maxim for Leadership",
+      "sharedPurpose": "Defining a Shared Purpose",
+      "relationalLeadership": "Relational vs. Transactional Leadership",
+      "activity": "Activity / Case Study",
+      "leadershipModule2": "Module 2: The Power of Ubuntu - Leading Collectively",
+      "dialogue": "Consensus Building & Dialogue",
+      "harmony": "Social Harmony & Interdependence",
+      "embodiedEmpathy": "Embodied Empathy",
+      "leadershipModule3": "Module 3: Decolonizing Leadership - Reclaiming Narratives",
+      "internalizedBias": "Addressing Internalized Bias",
+      "narrative": "Shifting the Narrative",
+      "selfAwareness": "Self-Awareness & Cultural Identity",
+      "leadershipModule4": "Module 4: The Accountable Leader - Action & Legacy",
+      "implementation": "Implementation & Practice",
+      "mentorship": "Mentorship & Sponsorship",
+      "communityOfPractice": "Building a Community of Practice"
+    },
+    "reportModal": {
+      "title": "Strategic Insights Report",
+      "closeButton": "Close",
+      "copyButton": "Copy Report",
+      "copySuccess": "Copied to Clipboard!"
+    }
+  }
+}
